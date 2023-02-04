@@ -39,7 +39,7 @@ highlighter: rouge
 
 # For gallery
 imagesurl: "/assets/img/"
-thumbsurl: "/assets/img/thumbs/"
+thumbsurl: "/assets/thumb/"
 
 
 
