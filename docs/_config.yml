@@ -33,6 +33,16 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
 
+markdown: GFM
+highlighter: rouge
+
+
+# For gallery
+imagesurl: "/assets/img/"
+thumbsurl: "/assets/img/thumbs/"
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

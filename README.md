@@ -1,0 +1,1 @@
+This is the respository for the Github pages site I have here. It's based on [basically basic](https://github.com/mmistakes/jekyll-theme-basically-basic). :0
