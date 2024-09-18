@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-Been a while! Guess I should update what I've been up to after not touching this thing for a while. After I graduated, I went on a 3 month trip to just go around and take pictures of things. But I imagine you might be here for something else. After those months, I've been working full time and getting experience with some AI + ML stuff. I've also been enjoying spending some of my own time to learn better software practices. Currently focusing on Rust and Haskell (HAHA.. to help with Rust.. but also just because I want to).
+Been a while! Guess I should update what I've been up to after not touching this thing for a while. After I graduated, I went on a 3 month trip to just go around and take pictures of things. But I imagine you might be here for something else. After those months, I've been working full time doing some pretty neat AI + ML stuff. I've also been enjoying spending some of my own time to learn better software practices. Currently focusing on Rust and Haskell (HAHA.. to help with Rust.. but also just because I want to).
 
 I don't have much of a structured plan for this place (I'd want to reorganize stuff first), but most of the stuff I'll add on here will be what I've been learning or doing on the side.
 
